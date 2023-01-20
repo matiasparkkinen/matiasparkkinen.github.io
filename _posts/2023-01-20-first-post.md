@@ -1,7 +1,7 @@
 ---
 layout: post
-title: whoami
-subtitle: matiasparkkinen
+title: Which shell do I use?
+subtitle: cat /etc/passwd | grep matiasparkkinen
 # cover-img: /assets/img/
 # thumbnail-img: /assets/img/
 # share-img: /assets/img/
