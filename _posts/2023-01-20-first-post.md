@@ -1,7 +1,7 @@
 ---
 layout: post
-title: tbd
-subtitle: tbd
+title: whoami
+subtitle: matiasparkkinen
 # cover-img: /assets/img/
 # thumbnail-img: /assets/img/
 # share-img: /assets/img/
