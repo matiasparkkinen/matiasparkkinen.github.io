@@ -8,4 +8,4 @@ cover-img: /assets/img/
 tags: [diary]
 ---
 
-[under construction]
+under construction
