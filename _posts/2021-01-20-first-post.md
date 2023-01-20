@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entry #1
+title: First entry
 subtitle: InfoSec Diaries
 # cover-img: /assets/img/
 # thumbnail-img: /assets/img/
