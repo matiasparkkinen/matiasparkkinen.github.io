@@ -1,11 +1,11 @@
 ---
 layout: post
-title: First entry
-subtitle: InfoSec Diaries
+title: tbd
+subtitle: tbd
 # cover-img: /assets/img/
 # thumbnail-img: /assets/img/
 # share-img: /assets/img/
 tags: [diary]
 ---
 
-under construction
+tbd
